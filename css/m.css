@@ -1,0 +1,24 @@
+.text-bar{
+    width: 178px;
+    height: 80px;
+}
+.button{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size:20px;
+    transition: hover 2;
+    cursor: pointer;
+    color: black;
+    background-color: plum;
+    border-radius: 6px;
+    border-color: plum;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+}
+.button:hover{
+    background-color: rgb(139, 74, 74);
+    color: burlywood;
+}
